@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cbb7a896-fb0e-4fb4-9d6e-8f4ac84f9f63" name="MoneyPlannerWeb" url="http://ftp.money-blog.xyz">
+        <fileTransfer host="ftp.money-blog.xyz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
